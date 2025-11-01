@@ -1,0 +1,10 @@
+#object files
+*.o
+
+#executables
+s-talk
+
+#temp files
+*~
+*.swp
+*.swo

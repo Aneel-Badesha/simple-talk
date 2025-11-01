@@ -1,2 +1,2 @@
 # simple-talk
-SImple Terminal
+Simple Terminal
